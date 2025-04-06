@@ -11,4 +11,3 @@ A plataforma MYK Academy é uma plataforma educacional com cursos de relacioname
 
 Obs: Um cliente é classificado como Churn quando fica 60 dias sem acesso ao portal.
 
-image.png
